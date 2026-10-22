@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sri-Hasini/Leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sri-Hasini/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sri-Hasini/Leethub/tree/master/0079-word-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sri-Hasini/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sri-Hasini/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
