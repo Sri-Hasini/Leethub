@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sri-Hasini/Leethub/tree/master/0079-word-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sri-Hasini/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sri-Hasini/Leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
