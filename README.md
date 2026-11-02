@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sri-Hasini/Leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sri-Hasini/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sri-Hasini/Leethub/tree/master/0079-word-search) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Hasini/Leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sri-Hasini/Leethub/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Hasini/Leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sri-Hasini/Leethub/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sri-Hasini/Leethub/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sri-Hasini/Leethub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
