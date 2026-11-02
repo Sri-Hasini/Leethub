@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int minMoves2(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        long long val1 = 0, val2 = 0;
+        int ind1 = 0, ind2 = 0 ;
+        if (n & 1) {
+            ind1 = n/2;
+            ind2 = (n + 1)/2;
+        }
+        else ind2 = (n - 1)/2;
+        for (auto i : nums) {
+            if (ind1 >= 0 && ind1 < n && i != nums[ind1]) {
+                val1 += abs(nums[ind1] - i);
+            }
+            if ( ind2 >= 0 && ind2 < n && i != nums[ind2]) {
+                val2 += abs(nums[ind2] - i);
+            }
+        }
+        return min(val1, val2);
+    }
+};
